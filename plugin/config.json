@@ -1,0 +1,11 @@
+{
+    "info": {
+      "name": "spotify plugin bd",
+      "authors": [ "cgd#0002" ],
+      "version": "",
+      "description": "amkes disocrd think yohu have sapotify premium",
+      "repository": "https://github.com/cgdisgood/spotify-plugin-bd",
+      "homepage": "https://cgd.wtf",
+      "reloadable": true
+    }
+  }
